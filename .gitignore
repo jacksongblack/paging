@@ -1,0 +1,9 @@
+*.zip
+*.exe
+*.exe~
+*.tmp
+*.db
+*.log
+*.conf
+*.docx
+.idea/*
